@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oranssy)](https://github.com/oranssy/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
@@ -16,14 +15,9 @@
 - 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=oranssy)](https://solved.ac/oranssy)
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={oranssy})](https://solved.ac/{oranssy})
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={oranssy}&theme=warm)
 
