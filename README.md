@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={oranssy})](https://solved.ac/{oranssy})
 
