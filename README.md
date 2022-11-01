@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-	/github/watchers/:user/:repo?label=Watch
+<img src="https://img.shields.io/badge/HTML-6C4AB6?style=flat-square&logo=html&logo&logoColor=white"/>
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
