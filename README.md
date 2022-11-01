@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/HTML-6C4AB6?style=flat-square&logo=html&logo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
